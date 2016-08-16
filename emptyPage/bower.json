@@ -1,0 +1,17 @@
+{
+  "name": "emptyPage",
+  "authors": [
+    "Shane Drafahl"
+  ],
+  "description": "tutorial",
+  "main": "wwwroot",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "localhost:5000",
+  "private": true,
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "jquery": "~2.1.4",
+    "jquery-ui": "jquery.ui#~1.12.0"
+  }
+}
